@@ -50,5 +50,5 @@
 </details>
 
 [website]: https://jaekanglee.com
-[instagram]: https://instagram.com/
+[instagram]: https://instagram.com/tolo.to.lo
 [linkedin]: https://linkedin.com/in/jaekang-lee
