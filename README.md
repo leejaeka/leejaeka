@@ -4,12 +4,12 @@
 [![Website](https://img.shields.io/website?label=jaekanglee.com&style=for-the-badge&url=https%3A%2F%2Fjaekanglee.com)](https://jaekanglee.com)
 
 
-## I'm a Student, Developer, and Data Scientist!
+## I'm a Student, Developer, pursuing Data Scientist!
 
 - 🔭 I’m currently working on a [website][website]!
 - 🌱 I’m currently learning machine learning!
 - 🥅 2020 Goals: Many projects
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love to draw and solve problems
 
 
 ### Connect with me:
