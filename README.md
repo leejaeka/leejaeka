@@ -40,14 +40,6 @@
 <br />
 <br />
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="leejaeka's Github Stats" src="https://github-readme-stats.leejaeka.vercel.app/api?username=leejaeka&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://jaekanglee.com
 [instagram]: https://instagram.com/tolo.to.lo
 [linkedin]: https://linkedin.com/in/jaekang-lee
