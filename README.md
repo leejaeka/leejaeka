@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a [website][website] and a [blog]!
 - 🌱 I’m currently learning machine learning!
-- 🥅 2020 Goals: Many projects
+- 🥅 2021 Goals: Many fun projects
 - ⚡ Fun fact: I love to draw and solve problems
 
 
