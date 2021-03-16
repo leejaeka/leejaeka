@@ -6,7 +6,7 @@
 ## I'm a Student, Developer, pursuing Data Scientist!
 
 - 🔭 I’m currently working on a [website][website] and a [blog]!
-- 🌱 I’m currently learning generative deep learning!
+- 🌱 I’m currently learning Bayesian Statistics and Computer Vision!
 - 🥅 2021 Goals: Many fun projects
 - ⚡ Fun fact: I love to draw and solve problems
 
