@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a [website][website] and a [blog]!
 - 🌱 I’m currently learning Bayesian Statistics and Computer Vision!
 - 🥅 2021 Goals: Many fun projects
-- ⚡ Fun fact: I love to draw and solve problems
+- ⚡ Fun fact: I love to [draw](https://www.jaekanglee.com/jaekanglee-art.html) and solve problems
 
 
 ### Connect with me:
