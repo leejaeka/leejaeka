@@ -3,12 +3,12 @@
 
 [![Website](https://img.shields.io/website?label=jaekanglee.com&style=for-the-badge&url=https%3A%2F%2Fjaekanglee.com)](https://jaekanglee.com)
 
-## I'm a Student, Developer, pursuing Data Scientist!
+## I'm a Student and Data Scientist!
 
 - 🔭 I’m currently working on a [website][website] and a [blog]!
-- 🌱 I’m currently learning Bayesian Statistics and Computer Vision!
+- 🌱 I’m currently learning transformers and tinyML!
 - 🥅 2021 Goals: Many fun projects
-- ⚡ Fun fact: I love to [draw](https://www.jaekanglee.com/jaekanglee-art.html) and solve problems
+- ⚡ Fun fact: I love to [draw](https://www.jaekanglee.com/jaekanglee-art.html) and solve puzzles
 
 
 ### Connect with me:
