@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on a [website][website] and a [blog]!
 - 🌱 I’m currently learning transformers and tinyML!
 - 🥅 2021 Goals: Many fun projects
-- ⚡ Fun fact: I love to [draw](https://www.jaekanglee.com/jaekanglee-art.html) and solve puzzles
 
 
 ### Connect with me:
