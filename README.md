@@ -6,8 +6,6 @@
 ## I'm a Student and Data Scientist!
 
 - 🔭 I’m currently working on a [website][website] and a [blog]!
-- 🌱 I’m currently learning transformers and tinyML!
-- 🥅 2021 Goals: Many fun projects
 
 
 ### Connect with me:
