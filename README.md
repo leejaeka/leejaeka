@@ -40,4 +40,4 @@
 [website]: https://jaekanglee.com
 [instagram]: https://instagram.com/tolo.to.lo
 [linkedin]: https://linkedin.com/in/jaekang-lee
-[blog]: https://leejaeka.github.io/jaekangai/
+[blog]: https://jaekang.quarto.pub/jaekangai-quarto
