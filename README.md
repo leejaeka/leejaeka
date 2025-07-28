@@ -5,7 +5,7 @@
 
 ## I'm a ML Engineer and Data Scientist! I teach AIs how to learn and then set them free in the real world. 
 
-- 🔭 I’m currently working on a [blog](https://jaekang.quarto.pub/jaekangai-quarto/)!
+- 🔭 I’m currently working on a [blog](https://jaekangai.netlify.app/)!
 
 ### Connect with me:
 tonylee015@gmail.com
